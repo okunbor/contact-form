@@ -1,0 +1,20 @@
+body{
+    margin: auto;
+}
+
+
+.flex{
+
+    display: flex;
+    flex-direction: column;
+}
+
+.space{
+
+    padding: 30px;
+}
+
+.bg{
+    background-color: darkblue;
+    font-weight: bold;
+}
